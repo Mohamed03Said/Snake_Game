@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1641225339 source:d:\projects\my project (the snake game)\main.cpp
+	"graphics.h"
+	<climits>
+	<queue>
+	<stdio.h>
+
+1641496862 source:d:\projects\(the snake game)\main.cpp
+	"graphics.h"
+	<climits>
+	<queue>
+	<stdio.h>
+
+1641496862 source:d:\programming\projects\prj\(the snake game)\main.cpp
+	"graphics.h"
+	<climits>
+	<queue>
+	<stdio.h>
+
