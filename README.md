@@ -1,3 +1,3 @@
 # Snake_Game
 
-A Snake Game using the C++ graphics.h library
+A Snake Game using C++ graphics.h library
